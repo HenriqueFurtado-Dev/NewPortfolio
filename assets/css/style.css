@@ -1,3 +1,14 @@
+body {
+    background: #008080;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    user-select: none;
+    font-weight: 300;
+    -webkit-font-smoothing: none;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 #loader {
     position: fixed;
     z-index: 9999999999999;
@@ -68,18 +79,6 @@
     }
   }
   
-
-
-body {
-    background: #008080;
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    user-select: none;
-    font-weight: 300;
-    -webkit-font-smoothing: none;
-    -moz-osx-font-smoothing: grayscale;
-}
 
 #start-bar {
     background: #c0c0c0;
